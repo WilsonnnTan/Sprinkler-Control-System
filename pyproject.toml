@@ -1,7 +1,7 @@
 [project]
 name = "sprinkler-control-system"
 version = "0.1.0"
-description = "Add your description here"
+description = "This project is part of our Soft Computing assignment."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = []
