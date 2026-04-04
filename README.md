@@ -24,7 +24,17 @@ This project is a **Soft Computing** course assignment that aims to:
 | 2   | Wilson Angelie Tan | 140810230024 |
 | 3   | Theophilus Samuel Ghozalli | 140810230054 |
 
-> *Dataset: Pending* (To be determined)
+---
+
+## Dataset
+
+**Source:** [Dataset for Predicting watering the plants](https://www.kaggle.com/datasets/nelakurthisudheer/dataset-for-predicting-watering-the-plants)
+
+**File:** `TARP.csv`
+
+**Features:** 15 columns with sensor readings and plant watering data
+
+**Location:** The dataset is stored in the `dataset/` folder of this project.
 
 ---
 
